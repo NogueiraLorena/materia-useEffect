@@ -1,5 +1,6 @@
 import React from "react";
 import UseState from "./Hooks/useState.js";
+import "./styles.css";
 
 function App() {
   return (
